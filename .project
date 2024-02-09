@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>C%%Users%Admin%Documents%Katalon%TAP-Katalon1%TAP-Katalon1.prj</name>
+	<name>C%%Users%User%Katalon Studio%TAP-Katalon1%TAP-Katalon1.prj</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -17,7 +17,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1706888438042</id>
+			<id>1707497634769</id>
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -26,25 +26,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1706888438067</id>
-			<name></name>
-			<type>6</type>
-			<matcher>
-				<id>org.eclipse.core.resources.regexFilterMatcher</id>
-				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
-			</matcher>
-		</filter>
-		<filter>
-			<id>1707495283891</id>
-			<name></name>
-			<type>10</type>
-			<matcher>
-				<id>org.eclipse.core.resources.regexFilterMatcher</id>
-				<arguments>.*\.svn$</arguments>
-			</matcher>
-		</filter>
-		<filter>
-			<id>1707495283902</id>
+			<id>1707497634785</id>
 			<name></name>
 			<type>6</type>
 			<matcher>
