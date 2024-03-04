@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Page Verification - Invalid Char Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>093d81df-1adf-4c45-9987-4e32c5cd60c1</testCaseGuid>
+</TestCaseEntity>

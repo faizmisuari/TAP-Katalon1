@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REST_API_Get List Users</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76efd3dc-4873-4040-93a0-3deb4125fb68</testCaseGuid>
+</TestCaseEntity>

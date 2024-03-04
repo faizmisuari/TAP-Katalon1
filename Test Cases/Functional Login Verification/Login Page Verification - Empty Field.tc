@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Page Verification - Empty Field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3029faa1-9cd8-41f7-87fc-d330b165c717</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Page Verification - Successful Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>289410cc-2c67-43b9-9252-c94b19fa4723</testCaseGuid>
+</TestCaseEntity>
